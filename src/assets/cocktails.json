@@ -1,0 +1,12 @@
+[
+  {
+    "nom": "Cocktail 1",
+    "prix": 8.99,
+    "image": "assets/images/cocktail1.jpg"
+  },
+  {
+    "nom": "Cocktail 2",
+    "prix": 10.49,
+    "image": "assets/images/cocktail2.jpg"
+  }
+]
